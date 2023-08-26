@@ -1,0 +1,287 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+/* Mini-login */
+.mini-login {
+    background-color: #494936;
+    height: 50px;
+    color: #C0A57F;
+}
+
+.btn {
+    background-color: none;
+    border: 1px solid #C0A57F;
+    color: #C0A57F;
+}
+
+
+
+.btn:hover {
+    color: white;
+    background-color: #C0A57F;
+}
+/* Mini-login */
+
+/* Navbar */
+.logo {
+    font-family: 'Pacifico', cursive;
+}
+
+.main-navbar {
+    background-color: #4C4C3E;
+    
+}
+
+.main-navbar a {
+    color: #C2A47F;
+}
+
+.main-navbar a:hover {
+    color: #CBB7A7;
+}
+
+.main-navbar a:active {
+    color: #CBB7A7;
+}
+
+.dropdown-nav {
+    background-color: #494936;
+    border: 1px solid #E9ECEF;
+    color: #C2A47F;
+}
+
+.dropdown-nav a:hover {
+    background-color: transparent;
+    color: #CBB7A7;
+}
+/* Navbar */ 
+
+/* Category */
+/* Side-menu */
+.category-title {
+    font-family: 'Patua One', cursive;
+}
+
+.category-item {
+    background-color: transparent;
+    border: none;
+    color: #C2A47F;
+}
+
+.dropdown-nav a:hover {
+    background-color: #C2A47F;
+    color: white;
+}
+
+.search-input {
+    background-color: transparent;
+    border: 1px solid #C0A57F;
+    color: #C2A47F;
+}
+
+/* Carousel */
+.carousel-title {
+    font-size: 5em;
+    font-family: 'Patua One',cursive;
+}
+
+.hot-text {
+    font-family: 'Great Vibes', cursive;   
+}
+
+.shop-btn:hover {
+    background-color: #494936;
+    color: #CBB7A7;
+    border: 1px solid #494936;
+}
+/* Category */
+
+/* Thumbnail Section */
+.thumbnail-img {
+    opacity: 0.9;
+}
+
+.thumbnail-text {
+    font-family: 'Patua One', cursive;  
+}
+/* Thumbnail Section */
+
+/* Lasted Products */
+.change {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+
+.change-1 {
+    background: #769EC1;
+}
+
+.change-2 {
+    background: #61A058;
+}
+
+.change-3 { 
+    background: #BA6D09;
+}
+
+.change-4 {
+    background: #EDED55;
+}
+
+.change-5 {
+    background: #0A0A0A;
+}
+
+.change-6 {
+    background: #FFFFFF;
+}
+
+.change-7 {
+    background: yellow;
+}
+
+.detail-link:hover {
+    color: #CBB7A7;
+    text-decoration: underline;
+}
+ /* Lasted Products */
+
+/* Service */
+.service {
+    color:#494936;
+    background:#cbb7a79a;
+}
+
+.service-icon {
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.service-title {
+    font-family: 'Patua One', cursive; 
+}
+ /* Service */
+
+ /* Magazine */
+ .magazine-text {
+    color: white;
+    position: relative;
+    top: 60%;
+ }
+
+ .magazine-tag {
+    text-decoration: none;
+    color:white;
+    padding: 2px 10px;
+    border-radius: 20px;
+ }
+
+ .magazine-tag:hover {
+    color: white;
+ }
+
+ .category-more {
+    color: #4C4C3E;
+ }
+
+ .category-more:hover {
+    color: #4C4C3E;
+ }
+ /* Magazine */
+
+ /* top category */
+.latest-title {
+    font-family: 'Patua One', cursive;
+    color: #494936;
+}
+
+.category-text .card-link {
+    color: #494936;
+    text-decoration: none;
+    border-bottom: 1px solid #494936;
+    cursor: pointer;
+} 
+
+.category-btn {
+    background: #C0A57F;
+    color: white;
+    border: 1px solid #C0A57F;
+}
+
+.category-btn:hover {
+    color: #C0A57F;
+    background: transparent;
+}
+
+  /* top category */
+
+/* Footer */
+.footer small {
+    padding: 5px 0px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.footer-social a {
+    color: #494936;
+}
+
+.footer-social a:hover {
+    color: #C2A47F;
+}
+
+.footer-search {
+    color: white;
+    background-color: #C0A57F;
+}
+ /* Footer */
+
+
+ /* Men Category */
+ .navigation:hover {
+    color: #CBB7A7;
+ }
+
+ .sort {
+    color: #494936;
+    cursor: pointer;
+ }
+
+ .sort:hover {
+    color:#C0A57F;
+}
+
+.card-category {
+    color: #494936;
+}
+ /* Men Category */
+
+/* category */
+.color {
+    width: 25px;
+    height: 25px;
+}
+
+.color:hover {
+    border-bottom: 2px solid #494936;
+}
+
+.buy-btn {
+    background-color: #4C4C3E;
+    color: #C0A57F;
+    border: none;
+}
+
+.heart:hover {
+    color:#C2A47F;
+    cursor: pointer;
+}
+ /* category */
+
+/* 
+font-family: 'Abril Fatface', cursive;
+font-family: 'Roboto Slab', serif;
+font-family: 'Handjet',cursive;
+font-family: 'PT Serif', serif; */
